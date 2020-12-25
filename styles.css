@@ -1,0 +1,86 @@
+body {
+  background-color: hsl(185, 75%, 39%);
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 1.125rem;
+  font-weight: 700;
+  min-width: 375px;
+  max-width: 1440px;
+  height: 100%;
+}
+.page{
+  min-width: 375px;
+  max-width: 1440px;
+  height: 100%
+}
+
+#top {
+  position: absolute;
+  top: -460px;
+  left: -460px;
+}
+
+.card {
+  background-color: white;
+  border-radius: 1.25rem;
+  position: absolute;
+  left: 25rem;
+  top: 14rem;
+  height: 25rem;
+  width: 23.75rem;
+}
+
+#card {
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  width: 23.75rem;
+}
+
+#pro-img {
+  border: 5px solid white;
+  border-radius: 55px;
+  position: absolute;
+  top: 100px;
+  right: 35%;
+}
+
+#name {
+  margin: 70px 115px 0px;
+}
+
+span {
+  color: grey;
+}
+
+#place {
+  color: grey;
+  margin: 10px 165px 0px;
+}
+
+#bottom {
+  position: relative;
+  bottom: -500px;
+  right: -500px;
+}
+
+.low-h3 {
+  display: inline-block;
+  margin: 5px 29px;
+  padding: 9px;
+}
+
+.low-h4 {
+  color: grey;
+display: inline-block;
+margin: 0px 18px;
+padding: 0px 12px;
+font-weight: 400;
+}
+hr{
+  color: #e0ece4;
+  border-bottom-style: none;
+}
+.attribution{
+  width: 500px;
+  margin: auto;
+
+}
